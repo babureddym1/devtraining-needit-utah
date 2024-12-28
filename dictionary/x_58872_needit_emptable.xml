@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="afe89bb483fe5e106cd99065eeaad3ec" label="EmpTable" max_length="40" name="x_58872_needit_emptable" type="collection">
+        <element label="EmpID" max_length="40" name="empid" type="integer"/>
+        <element label="EmpName" max_length="40" name="empname" type="string"/>
+        <element label="EmpLocation" max_length="40" name="emplocation" type="string"/>
+    </element>
+</database>

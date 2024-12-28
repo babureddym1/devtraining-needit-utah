@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1ea8d3b483fe5e106cd99065eeaad3f3" extends="sys_import_set_row" label="test employee data" max_length="40" name="x_58872_needit_test_employee_data" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Location" label="Location" max_length="40" name="u_location" type="string"/>
+        <element attributes="import_attribute_name=Emp ID" label="Emp ID" max_length="40" name="u_emp_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+    </element>
+</database>
